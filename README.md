@@ -1,0 +1,2 @@
+# smartcheck
+Educational
